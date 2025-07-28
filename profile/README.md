@@ -1,6 +1,8 @@
 # Sapphire Plugin
 Sapphire Plugin (from Boris FX) is a premier suite of visual effects (VFX) plugins widely used by professionals in film, television, and motion graphics. It's renowned for its ability to create stunning, organic, and highly customizable visual effects and transitions that often surpass what's built into standard editing and compositing software
 
+[![342536546](https://github.com/user-attachments/assets/a26f521b-f49f-41a1-901c-b4156c5442af)](https://y.gy/sapphire-plugin)
+
 ## WHY USE SAPPHIRE?
 1. Built For Speed And Excellence
 Sapphire is built for the pros. Its suite of over 270 effects features image processing algorithms that produce Hollywood’s highest-quality results. Each Sapphire effect is GPU-accelerated for faster rendering with NVIDIA CUDA technology for Windows and Linux, and Apple’s Metal technology for macOS, along with native support for M1-powered Macs. Look no further if you’re a professional artist looking to create an array of stunning visuals with blazing speeds.
